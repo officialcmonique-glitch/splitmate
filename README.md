@@ -1,4 +1,4 @@
-#SplitMate
+#Splitmate
 
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus, blanditiis.
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus, blanditiis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus, blanditiis.
@@ -7,4 +7,4 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus, blanditiis. 
 
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus, blanditiis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus, blanditiis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus, blanditiis.
 
-Cheritta Profile: [Click Here] (https://github.com/officialcmonique-glitch)
+Cheritta Profile: [ClickHere] (https://github.com/officialcmonique-glitch)
